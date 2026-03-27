@@ -1,0 +1,6 @@
+# Data files
+data/
+
+# Processed/generated data
+processed_data/
+development/combined_data.parquet
